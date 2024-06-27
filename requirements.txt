@@ -1,0 +1,8 @@
+pandas
+matplotlib
+cufflinks
+streamlit
+joblib
+scikit-learn
+streamlit_option_menu
+os
