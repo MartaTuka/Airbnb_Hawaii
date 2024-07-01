@@ -2,6 +2,6 @@
 
 
 ![Marta Martin](https://imgur.com/qrVfcpS.png)
-!(https://imgur.com/qrVfcpS.png)
 
-!(https://imgur.com/TWlePLO.jpg)
+
+![Marta Martin]((https://imgur.com/TWlePLO.jpg)
